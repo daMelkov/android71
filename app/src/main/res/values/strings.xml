@@ -11,4 +11,10 @@
     <string name="Two">2</string>
     <string name="Three">3</string>
     <string name="point">.</string>
+    <string name="letter_m">M</string>
+    <string name="letter_e">E</string>
+    <string name="letter_l">L</string>
+    <string name="letter_k">K</string>
+    <string name="letter_o">O</string>
+    <string name="letter_v">V</string>
 </resources>
