@@ -7,4 +7,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--  Button "0...9" and "." style -->
+    <style name="ButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:background">@drawable/button_border</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:onClick">onButtonClick</item>
+    </style>
+
 </resources>
