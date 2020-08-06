@@ -91,13 +91,13 @@
         <Button
             android:id="@+id/button_0"
             android:layout_width="0dp"
-            android:layout_weight="2"
+            android:layout_marginHorizontal="8dp"
+            android:layout_weight="8"
             android:text="@string/Zero"
             style="@style/ButtonStyle" />
 
         <Button
             android:id="@+id/button_point"
-            android:layout_width="1dp"
             android:text="@string/point"
             style="@style/ButtonStyle" />
 
